@@ -2,7 +2,7 @@
 
 ## Usage
 
-```python3
+```
 python getscbin.py shellcode.txt
 ```
 
